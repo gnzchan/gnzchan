@@ -92,8 +92,8 @@
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
+<h3 align="left">Backend</h3>
+<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
