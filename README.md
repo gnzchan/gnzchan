@@ -1,5 +1,7 @@
 <h1 align="center">Yo 👋, call me Chan</h1>
-<h3 align="center">I'm a software developer from Philippines. I'm all about quantifying real-world problems and solving them by coding. I mainly use React, TypeScript, Next.js, and Tailwind CSS. When I'm not on my desk, I'm either out on the basketball court or on a quest for the perfect dish topped with sunny side up egg.</h3>
+
+## 🚀 About Me
+<p align="center">I'm a software developer from Philippines. I'm all about quantifying real-world problems and solving them by coding. I mainly use React, TypeScript, Next.js, and Tailwind CSS. When I'm not on my desk, I'm either out on the basketball court or on a quest for the perfect dish topped with sunny side up egg.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
