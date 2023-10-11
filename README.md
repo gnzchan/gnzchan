@@ -25,8 +25,8 @@
 
 ## 👾 Tools I use
 
-<h3 align="left">Frontend:</h3>
-<p align="left">
+<h3 align="center">Frontend</h3>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -105,8 +105,8 @@
   </a>
 </p>
 
-<h3 align="left">Backend:</h3>
-<p align="left">
+<h3 align="center">Backend</h3>
+<p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
