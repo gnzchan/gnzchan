@@ -1,6 +1,6 @@
 <h1 align="left">Yo 👋 , call me Chan</h1>
 
-## 🧑‍💻 Hello!
+## 🧑‍💻 About me
 
 <p align="left">
   I'm a software developer from Philippines. I'm all about quantifying
