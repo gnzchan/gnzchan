@@ -22,7 +22,9 @@
   /></a>
 </p>
 <br/><br/>
+
 ## 👾 Tools I use
+
 <h3 align="left">Frontend:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -129,11 +131,18 @@
       height="40"
     />
   </a>
-
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/patrickpiccini/devicons/687ea87f66801c164da6793be2de9e95e4e20ca8/icons/light/Supabase.svg"
+      alt="supabase"
       width="40"
       height="40"
     />
@@ -208,17 +217,19 @@
   </a>
 </p>
 
+<br/><br/>
+
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gnzchan&show_icons=true&title_color=fafafa&text_color=f5f5f5&bg_color=262626&locale=en&layout=compact"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gnzchan&theme=dark"
     alt="gnzchan"
   />
 </p>
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gnzchan&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gnzchan&show_icons=true&title_color=fafafa&text_color=f5f5f5&bg_color=262626&locale=en&layout=compact"
     alt="gnzchan"
   />
 </p>
