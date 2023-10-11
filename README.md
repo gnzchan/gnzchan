@@ -21,9 +21,8 @@
       width="40"
   /></a>
 </p>
-
-## 🚀 Tools I use
-
+<br/><br/>
+## 👾 Tools I use
 <h3 align="left">Frontend:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -218,7 +217,7 @@
 </p>
 <p>
   <img
-    align="right"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=gnzchan&theme=dark"
     alt="gnzchan"
   />
