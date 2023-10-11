@@ -1,8 +1,7 @@
-<h1 align="center">Yo 👋, call me Chan</h1>
+## 👋 Hello!
 
-## 🚀 About Me
-
-<p align="center">
+<h1 align="left">Yo, call me Chan</h1>
+<p align="left">
   I'm a software developer from Philippines. I'm all about quantifying
   real-world problems and solving them by coding. I mainly use React,
   TypeScript, Next.js, and Tailwind CSS. When I'm not on my desk, I'm either out
