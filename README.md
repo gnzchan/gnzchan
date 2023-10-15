@@ -14,7 +14,7 @@
 
 <h3 align="left">Frontend</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -22,7 +22,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -33,7 +33,7 @@
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="blank"
-    rel="noreferrer"
+   
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -42,7 +42,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
@@ -50,7 +50,7 @@
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
       alt="nextjs"
@@ -58,7 +58,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -66,7 +66,7 @@
       height="40"
     />
   </a>
-  <a href="https://redux.js.org" target="blank" rel="noreferrer">
+  <a href="https://redux.js.org" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
@@ -74,7 +74,7 @@
       height="40"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/" target="blank">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
@@ -82,7 +82,7 @@
       height="40"
     />
   </a>
-  <a href="https://getbootstrap.com" target="blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
@@ -94,7 +94,7 @@
 
 <h3 align="left">Backend</h3>
 <p align="left">
-  <a href="https://nodejs.org" target="blank" rel="noreferrer">
+  <a href="https://nodejs.org" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
@@ -102,7 +102,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/cs/" target="blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cs/" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
@@ -110,7 +110,7 @@
       height="40"
     />
   </a>
-  <a href="https://dotnet.microsoft.com/" target="blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
       alt="dotnet"
@@ -118,7 +118,7 @@
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="blank" rel="noreferrer">
+  <a href="https://expressjs.com" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
@@ -126,7 +126,7 @@
       height="40"
     />
   </a>
-  <a href="https://supabase.com/" target="blank" rel="noreferrer">
+  <a href="https://supabase.com/" target="blank">
     <img
       src="https://raw.githubusercontent.com/patrickpiccini/devicons/687ea87f66801c164da6793be2de9e95e4e20ca8/icons/light/Supabase.svg"
       alt="supabase"
@@ -137,7 +137,7 @@
   <a
     href="https://www.microsoft.com/en-us/sql-server"
     target="blank"
-    rel="noreferrer"
+   
   >
     <img
       src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
@@ -146,7 +146,7 @@
       height="40"
     />
   </a>
-  <a href="https://graphql.org" target="blank" rel="noreferrer">
+  <a href="https://graphql.org" target="blank">
     <img
       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
       alt="graphql"
@@ -154,7 +154,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
@@ -162,7 +162,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.mysql.com/" target="blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
@@ -170,7 +170,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.sqlite.org/" target="blank" rel="noreferrer">
+  <a href="https://www.sqlite.org/" target="blank">
     <img
       src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
       alt="sqlite"
@@ -178,7 +178,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.postgresql.org" target="blank" rel="noreferrer">
+  <a href="https://www.postgresql.org" target="blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
@@ -186,7 +186,7 @@
       height="40"
     />
   </a>
-  <a href="https://postman.com" target="blank" rel="noreferrer">
+  <a href="https://postman.com" target="blank">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
@@ -194,7 +194,7 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
