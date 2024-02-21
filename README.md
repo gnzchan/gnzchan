@@ -3,11 +3,7 @@
 ## 🧑‍💻 About me
 
 <p align="left">
-  I'm a software developer from Philippines. I'm all about quantifying
-  real-world problems and solving them by coding. I mainly use React,
-  TypeScript, Next.js, and Tailwind CSS. When I'm not on my desk, I'm either out
-  on the basketball court or on a quest for the perfect dish topped with sunny
-  side up egg.
+  all about quantifying problems and solving them by coding.
 </p>
 
 ## 👾 Tools I use
