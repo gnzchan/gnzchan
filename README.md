@@ -1,5 +1,5 @@
-<h1 align="left">call me Chan 👋 </h1>
+<h1 align="left">im Chan 👋 </h1>
 
 <p align="left">
-  i only do programming to fund my fun
+  coding to fund my fun
 </p>
