@@ -10,7 +10,7 @@ applied ai engineer. shipping products end-to-end. interface to infrastructure, 
 const stack = {
   product:  ['typescript', 'react', 'next.js', 'tailwind', 'motion'],
   backend:  ['node', 'convex', 'supabase', 'postgres', 'redis'],
-  ai:       ['claude', 'openai', 'vercel ai sdk'],
+  ai:       ['embeddings', 'rag', 'tool calling', 'agents'],
 } as const
 ```
 
