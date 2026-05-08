@@ -1,0 +1,13 @@
+{
+  "board": ["", "", "", "", "", "", "", "", ""],
+  "status": "playing",
+  "winner": null,
+  "winLine": null,
+  "moves": 0,
+  "stats": {
+    "games": 0,
+    "draws": 0,
+    "playerWins": 0,
+    "aiWins": 0
+  }
+}

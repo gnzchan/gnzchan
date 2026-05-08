@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <style>
+    .border { stroke: #525252; stroke-opacity: 0.3; }
+    .mark { stroke: #404040; }
+    @media (prefers-color-scheme: dark) {
+      .border { stroke: #a3a3a3; stroke-opacity: 0.3; }
+      .mark { stroke: #d4d4d4; }
+    }
+  </style>
+  <rect class="border" x="0.5" y="0.5" width="79" height="79" fill="none" stroke-width="1"/>
+  <line class="mark" x1="22" y1="22" x2="58" y2="58" stroke-width="3" stroke-linecap="round"/>
+  <line class="mark" x1="58" y1="22" x2="22" y2="58" stroke-width="3" stroke-linecap="round"/>
+</svg>

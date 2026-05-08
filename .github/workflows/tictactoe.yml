@@ -1,0 +1,48 @@
+name: tic-tac-toe
+
+on:
+  issues:
+    types: [opened]
+
+concurrency:
+  group: tic-tac-toe
+  cancel-in-progress: false
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'ttt|')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: apply move
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: node scripts/tictactoe.mjs
+
+      - name: commit
+        env:
+          TITLE: ${{ github.event.issue.title }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json README.md
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "ttt: ${TITLE}"
+            git push
+          fi
+
+      - name: close issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: gh issue close "$ISSUE"
