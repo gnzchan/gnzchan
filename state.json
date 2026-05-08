@@ -1,9 +1,19 @@
 {
-  "board": ["", "", "", "", "", "", "", "", ""],
+  "board": [
+    "",
+    "",
+    "X",
+    "",
+    "O",
+    "",
+    "",
+    "",
+    ""
+  ],
   "status": "playing",
   "winner": null,
   "winLine": null,
-  "moves": 0,
+  "moves": 2,
   "stats": {
     "games": 0,
     "draws": 0,
