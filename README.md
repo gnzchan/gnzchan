@@ -1,5 +1,3 @@
-# chan
-
 ### now
 
 applied ai engineer. shipping products end-to-end. interface to infrastructure, with agents in between.
